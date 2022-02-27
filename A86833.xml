@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the officers now engaged for Ireland: to the supreme authority of England, the Commons assembled in Parliament. With the orders of Parliament in answer thereunto. / Ordered by the Commons assembled in Parliament, that this petition and orders thereupon be forthwith printed and published: Hen: Scobell, Cleric. Parliamenti.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86833</idno>
+            <idno type="STC">Wing H3565</idno>
+            <idno type="STC">Thomason E563_13</idno>
+            <idno type="STC">ESTC R202500</idno>
+            <idno type="EEBO-CITATION">99862756</idno>
+            <idno type="PROQUEST">99862756</idno>
+            <idno type="VID">114932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114932)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E563[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the officers now engaged for Ireland: to the supreme authority of England, the Commons assembled in Parliament. With the orders of Parliament in answer thereunto. / Ordered by the Commons assembled in Parliament, that this petition and orders thereupon be forthwith printed and published: Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>Cook, George, Colonel.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 10. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A3v: Geo: Cook [and 12 others].</note>
+                  <note>The Commons' reply is dated 7 July 1649.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114932:1" rendition="simple:additions"/>
+            <p>The humble PETITION OF THE OFFICERS Now Engaged for <hi>IRELAND:</hi> TO THE Supreme Authority OF <hi>ENGLAND,</hi> The Commons aſſembled in Parliament.</p>
+            <p>WITH The ORDERS of Parliament in Anſwer thereunto.</p>
+            <p>ORdered by the Commons aſſembled in Parliament, That this Petition and Orders thereupon be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed:</p>
+            <p>
+               <hi>Hen: Scobell, Cleric. Parliamenti.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Parliament of <hi>England.</hi> July 10. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="petition">
+               <pb facs="tcp:114932:2"/>
+               <pb n="3" facs="tcp:114932:2"/>
+               <head>To the Supreme Authority of <hi>England,</hi> The Commons aſſembled in Parliament:</head>
+               <head type="sub">The humble Petition of the Officers now engaged for <hi>Ireland,</hi>
+               </head>
+               <opener>Humbly ſheweth,</opener>
+               <p>THat we do in all faithfulneſs and truth of heart, ſeal to thoſe acknow<g ref="char:EOLhyphen"/>ledgements made by many others of your great travels in behalf of this Com<g ref="char:EOLhyphen"/>monwealth; perſwading our ſelves your In<g ref="char:EOLhyphen"/>tegrity will be owned by God, in the ma<g ref="char:EOLhyphen"/>nagement of what remains, which doth encourage us, being now upon our march, to communicate unto you our ſence of our dear Native Countreys preſent condition, which we offer unto you, as the longing of our ſouls, in theſe enſuing particulars: which being granted, may prove a Monument or Stone of Remembrance of your reſpects unto us, who deſire to approve our ſelves faithful to all your juſt Intereſts, as well abroad as at home, although attended with great difficulties.</p>
+               <pb n="4" facs="tcp:114932:3"/>
+               <p>That the great Authority the Lord hath clothed you withal, may be laid out for its proper ends (<hi>viz.</hi>) A terror to all wicked<g ref="char:EOLhyphen"/>neſs, in the encouragement of all good; that neither Prophane Swearing, Drunken<g ref="char:EOLhyphen"/>neſs, Uncleanneſs, open abuſe of the Lords day, &amp;c. may be tolerated under your power.</p>
+               <p>That all Proceedings in Law may be in Engliſh, that Juſtice may be ſpeedy, cheap and certain; to which purpoſe, that no Suit or Action may be commenced againſt any man, till three honeſt men of the Diviſion or Hundred in the County where the De<g ref="char:EOLhyphen"/>fendant lives, have a hearing of the Difference without Fees; which three Peacemakers we humbly deſire may be choſen yearly to end Controverſies as aforeſaid; and in caſe agree<g ref="char:EOLhyphen"/>ment cannot be made by them, they then to certifie the ſtate of the caſe to the Court, to which the Plaintiff applieth himſelf.</p>
+               <p>That all mens Lands and Houſes may be Regiſtred in every Pariſh, with all their In<g ref="char:EOLhyphen"/>cumbrances and Alienations, and a Copy of the ſaid Regiſter kept in every County town, which we humbly conceive will be of great eaſe in matters of Commutative
+<pb n="5" facs="tcp:114932:3"/>Juſtice; for how ſadly doth this Nation groan under Law quarrels?</p>
+               <p>We deſire that Tythes, which occaſions ſo much trouble and contention, may be taken away; and in ſtead thereof, Two ſhillings <hi>per</hi> pound upon Land, and One ſhilling ſix pence upon Houſes, may be or<g ref="char:EOLhyphen"/>derly raiſed in all Counties, and that to make a County Treaſury, whence may iſſue convenient Maintenance for Preachers, and ſufficient for Poor, and many other uſes, of which we ſuppoſe you have a Model al<g ref="char:EOLhyphen"/>ready.</p>
+               <p>That Publique Debts may be paid to thoſe that are neceſsitous, before Gratuities to particular Friends beſtowed.</p>
+               <p>That all Publique Treaſurers and Recei<g ref="char:EOLhyphen"/>vers be effectually and ſpeedily accounted with, and Delinquents in that kinde made exemplary.</p>
+               <p>That the caſe of Priſoners for Debt, ſo often committed, may be ſpeedily conſidered and diſpatched.</p>
+               <p>Thus you have before you the earneſt breathings of our ſouls for <hi>England,</hi>
+                  <pb n="6" facs="tcp:114932:4"/>which we love, though leave; beſeeching you, as ever you would ſtrengthen our hands in this preſent difficult work, theſe Petitions may not dye at your doors, they may be our laſt: which if granted, we ſhall depart with joy; reſolving, in the ſtrength of God, to own and ſtand by you in all juſt things, againſt any op<g ref="char:EOLhyphen"/>poſition whatſoever.</p>
+               <closer>
+                  <signed>
+                     <hi>And we ſhall ever pray, &amp;c.</hi>
+                     <list>
+                        <item>
+                           <hi>Geo: Cook</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Lebund.</hi>
+                        </item>
+                        <item>
+                           <hi>R. Laurence.</hi>
+                        </item>
+                        <item>
+                           <hi>Daniel Axtill.</hi>
+                        </item>
+                        <item>
+                           <hi>Iſaac Ewer.</hi>
+                        </item>
+                        <item>
+                           <hi>J. Hewſon.</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Stubbers.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho: Goddard.</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Wallis.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Phaier.</hi>
+                        </item>
+                        <item>
+                           <hi>Th: Beecher.</hi>
+                        </item>
+                        <item>
+                           <hi>Will: Throgmorton.</hi>
+                        </item>
+                        <item>
+                           <hi>Io: Hurdman.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="response">
+               <pb n="7" facs="tcp:114932:4"/>
+               <head>Die Sabbathi, 7 Julii, 1649.</head>
+               <head type="sub">
+                  <hi>THe humble Petition of the Officers now engaged for</hi> Ireland, was this day read:</head>
+               <p>ORdered, That this Petition be referred to the Committee who are to conſider what things are fit to he done before Adjournment, who are to conſider thereof, and to ſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> die in diem,</hi> and to Report their opinions therein to this Houſe, what therein is thought neceſſary to be done, in order to the things contained in this Petition before Adjournment, and all that come to have Voyces.</p>
+               <p>Ordered, That this Houſe taking notice of the good affections of the Petitioners, ſhewed in this Petition, and in their undertakings for <hi>Ireland,</hi> do give the Petitioners the very hearty thanks of this Houſe; And that the Lord Lieutenant of <hi>Ireland</hi> be deſired to return the hearty thanks of this Houſe to them accordingly.</p>
+               <p>Ordered, That this Petition and Orders there<g ref="char:EOLhyphen"/>upon be forthwith printed and publiſhed.</p>
+               <closer>
+                  <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
